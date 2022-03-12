@@ -1,0 +1,32 @@
+body {
+    margin: 0; 
+    background: #fff3fe url(images/ch.png); /* Цвет фона и путь к файлу */
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0); /* Цвет текста */
+    }
+    h1{
+     position: absolute; 
+     left: 5%;
+     top: 10%
+    }
+    blockquote{
+        position: absolute;
+        right:8%;
+        top:10%;
+    }
+    .accent{
+        color:rgb(243, 55, 86);
+    }
+    h2{
+        color:rgb(243, 55, 86);
+    }
+
+   .days-list {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 30px 20px;
+    padding: 25px 20px;
+    padding-bottom: 40px;
+   }
+   
