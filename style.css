@@ -1,8 +1,8 @@
 body {
     margin: 0; 
-    background: #fff3fe url(images/ch.png); /* Цвет фона и путь к файлу */
+    background: #fff3fe url(images/ch.png); 
     background-repeat: no-repeat;
-    color: rgb(0, 0, 0); /* Цвет текста */
+    color: rgb(0, 0, 0);
     }
     h1{
      position: absolute; 
